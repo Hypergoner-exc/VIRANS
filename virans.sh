@@ -5,9 +5,9 @@ clear
 sleep 1
 cowsay -f dragon "VIRUS メ RANSOMWARE"
 figlet -f shadow "NONAME-ID"
-echo $blue
 echo
-echo "+ -- --=>[ VIRANS v1 by     ｟ NONAME ｠                ]"
+echo
+echo "+ -- --=>[ VIRANS v2 by     ｟ NONAME ｠                ]"
 echo 
 echo "+ -- --=>[ 14 Exploits - 10 Scanners 16 post - 38 virus ]"
 echo 
